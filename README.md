@@ -32,7 +32,7 @@ as well as the relevant stats of the players such as:
 
 With Git in Terminal:
 ```
-git clone https://github.com/troysorongon/ESPN-Fantasy-Basketball-League-API-Best-Last-7-Day-Avg-Stats.git
+git clone https://github.com/troysorongon/ESPN-Fantasy-Basketball-League-API-Trending-Players-Stats.git
 cd ESPN-Fantasy-Basketball-League-API-Best-Last-7-Day-Avg-Stats
 ```
 **
