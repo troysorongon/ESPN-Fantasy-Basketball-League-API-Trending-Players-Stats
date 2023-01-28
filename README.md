@@ -54,7 +54,7 @@ pip install pandas
 
 1.**"micro"** into the file (If using Terminal)
 ```
-micro ESPN_Fantasy_API_Best_Last_7_Day_Avg_git.py
+micro ESPN_Fantasy_API_Trending_Players_git.py
 ```
 2. Fill in the fields that say "Fill in" with your information **OR** uncomment the options to get a user input for those fields
 3. Save File (Ctrl + S **OR** Command + S)
@@ -62,7 +62,7 @@ micro ESPN_Fantasy_API_Best_Last_7_Day_Avg_git.py
 ## Executing
 On Terminal:
 ```
-python3 ESPN_Fantasy_API_Best_Last_7_Day_Avg_git
+python3 ESPN_Fantasy_API_Trending_Players_git.py
 ```
 **
 
@@ -75,8 +75,8 @@ On IDE:  Run program
 2. Select the amount of players to display 
 3. Make the program faster with better algorithms
 
-## [Discussions](https://github.com/troysorongon/ESPN-Fantasy-Basketball-League-API-Best-Last-7-Day-Avg-Stats/discussions)
+## [Discussions](https://github.com/troysorongon/ESPN-Fantasy-Basketball-League-API-Trending-Players-Stats/discussions)
 If you would like to share any ideas of new implementations or have any comments about the program. please feel free to share in **Discussions**!
 
-## [Issues](https://github.com/troysorongon/ESPN-Fantasy-Basketball-League-API-Best-Last-7-Day-Avg-Stats/issues)
+## [Issues](https://github.com/troysorongon/ESPN-Fantasy-Basketball-League-API-Trending-Players-Stats/issues)
 Please report any issues or bugs that may come across [here](https://github.com/troysorongon/ESPN-Fantasy-Basketball-League-API-Best-Last-7-Day-Avg-Stats/issues)
