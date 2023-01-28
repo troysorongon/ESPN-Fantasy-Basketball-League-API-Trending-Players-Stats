@@ -1,6 +1,6 @@
 # ESPN Fantasy Basketball League API Trending Players Stats 
 
-This Python3 program uses ESPN Fantasy Basketball API to show the **stats of the Trending available players/free agents** stats in your ESPN Fantasy Basketball League. The information of the players and the stats are displayed in a dataframe format. 
+This Python3 program uses ESPN Fantasy Basketball API to show the **stats of the top 12 Trending available players/free agents** stats in your ESPN Fantasy Basketball League. The information of the players and the stats are displayed in a dataframe format. 
 
 <hr>
 
